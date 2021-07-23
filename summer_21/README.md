@@ -1,0 +1,1 @@
+For summer DRP 2021, I read through Milnor's [Topology from the Differentiable Viewpoint](https://math.uchicago.edu/~may/REU2017/MilnorDiff.pdf). I was mentored by Charlie Reid, and gave a talk on the Poincare-Hopf Theorem.
